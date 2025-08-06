@@ -14,7 +14,7 @@ const featuredDishes = [
     name: "Jollof Rice & Chicken",
     description: "Nigeria's favorite - perfectly spiced jollof rice with grilled chicken",
     price: "₦4,000",
-    image: "/placeholder.svg?height=200&width=300&text=Jollof+Rice",
+    image: "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np8SfZukN7gYk-FM9BhYEPEgpFHXv39wFpO4d1ekyFvPpffAM3-b8mww5tkSAsgCSd5n4LBAZN3exBdX7KrdIraUM0nLYmdWz3wPRYrWF9wJZY-EPGr4VgTraWU7lv4x-7JhEMznw=s680-w680-h510-rw",
     category: "Main Course",
     popular: true
   },
@@ -23,7 +23,7 @@ const featuredDishes = [
     name: "Chicken Shawarma",
     description: "Tender grilled chicken wrapped in soft pita with fresh vegetables",
     price: "₦3,000",
-    image: "/placeholder.svg?height=200&width=300&text=Shawarma",
+    image: "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npzREbUpWyg07ggP29mMulcTYdJibO_vEoLXc4oKpSXmocD9T36gpn2NVcloY6z2mlHoo6x_j9j0sRuV8R9B0S75Zp9BhsrK0dPxvGe8QZKII8fcYyjMggvIY5rmVSYk8FQ9Gsm=s680-w680-h510-rw",
     category: "Main Course",
     popular: true
   },
@@ -32,7 +32,7 @@ const featuredDishes = [
     name: "Small Chops Pouch",
     description: "Assorted Nigerian finger foods - puff puff, samosa, spring rolls",
     price: "₦2,500",
-    image: "/placeholder.svg?height=200&width=300&text=Small+Chops",
+    image: "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrbBYPX5qFGGRVID76sWoC1RE-sh0QdAnQ9UgQvSbGiLbejDl6ankPpwc84bcBUucLBRzJ8vUOHcCg0f_fukHhYtVzNF1iawPTRynDV5RkfCf5jOI45IhNh2WCGIz1eBP_Nrv8O=s680-w680-h510-rw",
     category: "Appetizers",
     popular: true
   }
